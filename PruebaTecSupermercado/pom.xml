@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.todocodeacademy</groupId>
 	<artifactId>PruebaTecSupermercado</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>PruebaTecSupermercado</name>
 	<description>Prueba tecnica supermercado</description>
 	<url/>
@@ -42,6 +42,7 @@
 		<dependency>
 			<groupId>com.mysql</groupId>
 			<artifactId>mysql-connector-j</artifactId>
+			<version>8.0.33</version>
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
